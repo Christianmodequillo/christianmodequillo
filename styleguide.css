@@ -1,0 +1,10 @@
+:root {
+  --dark-1: rgba(33, 32, 28, 1);
+  --x-2120-1c: rgba(236, 164, 21, 1);
+  --text-font-family: "Rubik-Medium", Helvetica;
+  --text-font-weight: 500;
+  --text-font-size: 64px;
+  --text-letter-spacing: 0px;
+  --text-line-height: normal;
+  --text-font-style: normal;
+}
